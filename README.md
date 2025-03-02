@@ -60,7 +60,7 @@ Below are learning resources corresponding to the solutions listed above.
 
 1.  [Singularity Documentation](https://docs.sylabs.io/)
 2.  [Singularity for Bioinformatics](https://www.nextflow.io/blog/2019/singularity-for-bioinformatics.html)
-3.  [HPC with Singularity](https://hpc Carpentry.github.io/hpc-singularity/)
+3.  [HPC with Singularity](https://carpentries-incubator.github.io/singularity-introduction/index.html)
 4.  [Singularity Hub](https://singularity-hub.org/)
 
 ### Conda Environment Management
